@@ -9,8 +9,8 @@
 
     <h1>Profil Mahasiswa</h1>
 
-    <p>Nama: Louise Angelique Silaban</p>
-    <p>NIM: 707082400116</p>
+    <p>Nama: Nada Nur Azizah</p>
+    <p>NIM: 707082400107</p>
     <p>Kelas: D4SM 48-02</p>
 
 </body>
